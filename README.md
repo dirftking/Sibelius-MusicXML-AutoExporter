@@ -57,3 +57,23 @@ git clone https://github.com/yourname/SibeliusXMLBatchExporter.git
 | **F4** | Stop               |
 
 
+
+Important Notes
+
+1. Run script as Administrator
+
+Otherwise Windows UAC will block Sibelius actions.
+
+2. Do not use your mouse during export
+
+The tool uses mouse automation—any accidental movement breaks the workflow.
+
+3. Use fixed screen resolution
+
+1080p recommended.
+
+4. Sibelius theme/zoom/layout differences
+
+If your UI differs, you must recalibrate click coordinates.
+
+
